@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Wine",
+      "image": "www.wine.com",
+      "price": "20",
+      "id": 8
+    },
+    {
+      "name": "Money Plant",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMsRYJcNmTd-IrqOsfvMibhGy7bXflkW-8Q&usqp=CAU",
+      "price": "5",
+      "id": 9
     }
   ]
 }
